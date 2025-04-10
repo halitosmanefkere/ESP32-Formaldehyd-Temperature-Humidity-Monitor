@@ -70,6 +70,16 @@ Beispiel Webinterface / Example Interface:
 
 ---
 
+## ⚡ Energieverbrauch / Energy Consumption
+
+Hier wird der durchschnittliche Energieverbrauch angezeigt:
+
+![Energieverbrauch](Bilder/Energieverbrauch/Energieverbrauch_preislich.png)
+
+Quelle: Stadtwerke Stuttgart - 1 kWh = 34,95 Cent (2024)
+
+---
+
 ## 🛠️ Technologien / Technologies
 - C++ / Arduino IDE
 - ESP32 WiFi Library
