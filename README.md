@@ -29,17 +29,17 @@ The measurements are displayed via a local **web server**.
 
 | Vorbereitung | Bohren & Sensorplatzierung | Gehäuse Fertig |
 |:---|:---|:---|
-| ![Preparation](Bilder/Gehäuse/Bohrung_der_Struktur.jpg) | ![Sensor Placement](Bilder/Gehäuse/Platzierung_des_Sensors.jpg) | ![Finished Product](Bilder/Produkt/Produkt_Bild1.jfif) |
+| ![Preparation](BIlder/Gehäuse/Bohrung_der_Struktur.jpg) | ![Sensor Placement](BIlder/Gehäuse/Platzierung_des_Sensors.jpg) | ![Finished Product](BIlder/Produkt/Produkt_Bild1.jfif) |
 
 Weitere Bilder / More images:
-- [Fertig gelötet / Soldered](Bilder/Gehäuse/Fertig_geloetet.jpg)
-- [Sensoröffnung / Sensor Opening](Bilder/Gehäuse/Offnung_fuer_Sensor.jpg)
+- [Fertig gelötet / Soldered](BIlder/Gehäuse/Fertig_geloetet.jpg)
+- [Sensoröffnung / Sensor Opening](BIlder/Gehäuse/Offnung_fuer_Sensor.jpg)
 
 ---
 
 ## 🔧 Schaltpläne / Schematics
-- [I2C-Kommunikationsschema](Bilder/Schaltpläne/I2C_Kommunikation.png)
-- [I2C-Bus Aufbau](Bilder/Schaltpläne/I2C_BUS.jpg)
+- [I2C-Kommunikationsschema](BIlder/Schaltpläne/I2C_Kommunikation.png)
+- [I2C-Bus Aufbau](BIlder/Schaltpläne/I2C_BUS.jpg)
 
 ---
 
@@ -54,8 +54,8 @@ Weitere Bilder / More images:
 **Quelle / Source:** World Health Organization (WHO) and German Federal Environment Agency (Umweltbundesamt).
 
 Beispiel Webinterface / Example Interface:
-- [Gute Luft / Good Air](Bilder/Webinterface_Screenshots/Im_gruenen_Bereich.jpeg)
-- [Erhöhte Werte / Elevated Values](Bilder/Webinterface_Screenshots/Formaldehyd_Temperatur_rot.jpeg)
+- [Gute Luft / Good Air](BIlder/Webinterface_Screenshots/Im_gruenen_Bereich.jpeg)
+- [Erhöhte Werte / Elevated Values](BIlder/Webinterface_Screenshots/Formaldehyd_Temperatur_rot.jpeg)
 
 ---
 
@@ -74,7 +74,7 @@ Beispiel Webinterface / Example Interface:
 
 Hier wird der durchschnittliche Energieverbrauch angezeigt:
 
-![Energieverbrauch](Bilder/Energieverbrauch/Energieverbrauch_preislich.png)
+![Energieverbrauch](BIlder/Energieverbrauch/Energieverbrauch_preislich.png)
 
 Quelle: Stadtwerke Stuttgart - 1 kWh = 34,95 Cent (2024)
 
