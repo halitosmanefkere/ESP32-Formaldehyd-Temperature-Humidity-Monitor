@@ -29,17 +29,17 @@ The measurements are displayed via a local **web server**.
 
 | Vorbereitung | Bohren & Sensorplatzierung | Gehäuse Fertig |
 |:---|:---|:---|
-| ![Preparation](Bilder/Gehäuse/Bohrung_der_Struktur.jpg) | ![Sensor Placement](Bilder/Gehäuse/Platzierung_des_Sensors.jpg) | ![Finished Product](Bilder/Produkt/Produkt_Bild1.jfif) |
+| ![Preparation](Bilder/Gehäuse/Bohrung_der_Struktur.png) | ![Sensor Placement](Bilder/Gehäuse/Platzierung_des_Sensors.png) | ![Finished Product](Bilder/Produkt/Produkt_Bild1.png) |
 
 Weitere Bilder / More images:
-- [Fertig gelötet / Soldered](Bilder/Gehäuse/Fertig_geloetet.jpg)
-- [Sensoröffnung / Sensor Opening](Bilder/Gehäuse/Offnung_fuer_Sensor.jpg)
+- [Fertig gelötet / Soldered](Bilder/Gehäuse/Fertig_geloetet.png)
+- [Sensoröffnung / Sensor Opening](Bilder/Gehäuse/Offnung_fuer_Sensor.png)
 
 ---
 
 ## 🔧 Schaltpläne / Schematics
 - [I2C-Kommunikationsschema](Bilder/Schaltpläne/I2C_Kommunikation.png)
-- [I2C-Bus Aufbau](Bilder/Schaltpläne/I2C_BUS.jpg)
+- [I2C-Bus Aufbau](Bilder/Schaltpläne/I2C_BUS.png)
 
 ---
 
