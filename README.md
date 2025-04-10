@@ -54,8 +54,8 @@ Weitere Bilder / More images:
 **Quelle / Source:** World Health Organization (WHO) and German Federal Environment Agency (Umweltbundesamt).
 
 Beispiel Webinterface / Example Interface:
-- [Gute Luft / Good Air](Bilder/Webinterface_Screenshots/Im_gruenen_Bereich.jpeg)
-- [Erhöhte Werte / Elevated Values](Bilder/Webinterface_Screenshots/Formaldehyd_Temperatur_rot.jpeg)
+- [Gute Luft / Good Air](Bilder/Webinterface_Screenshots/Im_gruenen_Bereich.png)
+- [Erhöhte Werte / Elevated Values](Bilder/Webinterface_Screenshots/Formaldehyd_Temperatur_rot.png)
 
 ---
 
