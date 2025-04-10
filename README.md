@@ -1,4 +1,4 @@
-# ESP32 Formaldehyde Temperature Humidity Monitor
+# ESP32 Formaldehyd Temperature Humidity Monitor
 
 ## 📈 Projektbeschreibung / Project Description
 
