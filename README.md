@@ -32,14 +32,14 @@ The measurements are displayed via a local **web server**.
 | ![Preparation](Bilder/Gehäuse/Bohrung_der_Struktur.png) | ![Sensor Placement](Bilder/Gehäuse/Platzierung_des_Sensors.png) | ![Finished Product](Bilder/Produkt/Produkt_Bild1.png) |
 
 Weitere Bilder / More images:
-- [Fertig gelötet / Soldered](Bilder/Gehäuse/Fertig_geloetet.png)
-- [Sensoröffnung / Sensor Opening](Bilder/Gehäuse/Offnung_fuer_Sensor.png)
+- ![Fertig gelötet / Soldered](Bilder/Gehäuse/Fertig_geloetet.png)
+- ![Sensoröffnung / Sensor Opening](Bilder/Gehäuse/Offnung_fuer_Sensor.png)
 
 ---
 
 ## 🔧 Schaltpläne / Schematics
-- [I2C-Kommunikationsschema](Bilder/Schaltpläne/I2C_Kommunikation.png)
-- [I2C-Bus Aufbau](Bilder/Schaltpläne/I2C_BUS.png)
+- ![I2C-Kommunikationsschema](Bilder/Schaltpläne/I2C_Kommunikation.png)
+- ![I2C-Bus Aufbau](Bilder/Schaltpläne/I2C_BUS.png)
 
 ---
 
@@ -54,8 +54,8 @@ Weitere Bilder / More images:
 **Quelle / Source:** World Health Organization (WHO) and German Federal Environment Agency (Umweltbundesamt).
 
 Beispiel Webinterface / Example Interface:
-- [Gute Luft / Good Air](Bilder/Webinterface_Screenshots/Im_gruenen_Bereich.png)
-- [Erhöhte Werte / Elevated Values](Bilder/Webinterface_Screenshots/Formaldehyd_Temperatur_rot.png)
+- ![Gute Luft / Good Air](Bilder/Webinterface_Screenshots/Im_gruenen_Bereich.png)
+- ![Erhöhte Werte / Elevated Values](Bilder/Webinterface_Screenshots/Formaldehyd_Temperatur_rot.png)
 
 ---
 
